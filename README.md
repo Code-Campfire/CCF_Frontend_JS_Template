@@ -12,7 +12,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.jsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
@@ -51,11 +51,10 @@ This will enable `corepack` and install the version of `pnpm` specified in the `
 
 To use `nvm` to manage the version of Node.js used in this project, you can follow these steps:
 
-1. Run the following command to install `nvm`:
+1. Follow the instructions in the `nvm` repository to install `nvm` on your system:
 
-```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-```
+https://github.com/nvm-sh/nvm
+
 
 2. Once `nvm` is installed, you can use it to install the version of Node.js specified in the `.nvmrc` file by running the following command:
 
