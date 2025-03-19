@@ -55,7 +55,6 @@ To use `nvm` to manage the version of Node.js used in this project, you can foll
 
 https://github.com/nvm-sh/nvm
 
-
 2. Once `nvm` is installed, you can use it to install the version of Node.js specified in the `.nvmrc` file by running the following command:
 
 ```bash
