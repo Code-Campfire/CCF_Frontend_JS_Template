@@ -1,13 +1,18 @@
-# Codefire React App
+#  React App
 
 A simple React application with routing setup.
 
-## Installation
+2. Run the setup script:
 
-1. Clone the repository:
+   For Mac/Linux:
+   ```bash
+   ./scripts/setup-mac.sh
+   ```
 
-git clone [your-repo-url]
-
+   For Windows:
+   ```
+   scripts\setup-windows.bat
+   ```
 
 ## Available Scripts
 
